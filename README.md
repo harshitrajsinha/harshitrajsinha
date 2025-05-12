@@ -6,6 +6,11 @@ I'm a software engineer leveraging **Golang, JavaScript, PHP** and related frame
 I have till now worked in two companies, both in fintech and web development domains where my role involved crafting intuitive UI components using **HTML, CSS, and JavaScript**, while handling backend functionalities with **PHP**. I have built custom UI components and plugins, allowing businesses and startups to create dynamic web experiences
 Through this I have gained valuable insights into user expectations and product development. This experience has strengthened my ability to deliver high-quality, user-centric solutions while continuously upskilling myself.
 
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harshitrajsinha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=harshitrajsinha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitrajsinha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ### 🔥 Featured Projects:
 📌 **[Vanmango](https://vanmango.vercel.app)** – A Van Management System built using Golang with PostgreSQL.  
 📌 **[GShortify](https://gshortify.vercel.app/)** – A URL Shortener application built using Golang with data maintained in Supabase.  
