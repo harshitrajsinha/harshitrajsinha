@@ -12,8 +12,8 @@ Through this I have gained valuable insights into user expectations and product 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitrajsinha&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔥 Featured Projects:
-📌 **[Vanmango](https://vanmango.vercel.app)** – A Van Management System built using Golang with PostgreSQL.  
-📌 **[GShortify](https://gshortify.vercel.app/)** – A URL Shortener application built using Golang with data maintained in Supabase.  
+📌 **[MediGo](https://medigo-frontend.vercel.app)** – A hospital management system written in Golang.
+📌 **[Vanmango](https://vanmango.vercel.app)** – A Van Management System built using Golang with PostgreSQL.
 📌 **[MomenTodo](https://phenomenal-hotteok-3af725.netlify.app/)** – A non-persistent Todo application for browser built using Vuejs.  
 -  Find more projects in my public repos.
 
