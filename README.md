@@ -13,7 +13,7 @@ Through this I have gained valuable insights into user expectations and product 
 
 ### 🔥 Featured Projects:
 📌 **[MediGo](https://medigo-frontend.vercel.app)** – A hospital management system written in Golang. \
-📌 **[GoGetJob](https://github.com/harshitrajsinha/go-get-job))** – A Golang that showcase CRUD operations using GraphQL. \
+📌 **[GoGetJob](https://github.com/harshitrajsinha/go-get-job)** – A Golang that showcase CRUD operations using GraphQL. \
 📌 **[Vanmango](https://vanmango.vercel.app)** – A Van Management System built using Golang with PostgreSQL. \
 📌 **[MomenTodo](https://phenomenal-hotteok-3af725.netlify.app/)** – A non-persistent Todo application for browser built using Vuejs.
 -  Find more projects in my public repos.
